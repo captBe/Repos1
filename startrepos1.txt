@@ -1,0 +1,3 @@
+/* this is a comment */ > startrepos1.txt
+cat startrepos.txt
+echo /* this is a comment */
